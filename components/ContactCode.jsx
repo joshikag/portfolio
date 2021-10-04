@@ -9,7 +9,7 @@ const ContactCode = () => {
       <p className={styles.line}>
         &nbsp;&nbsp;&nbsp;website:{' '}
         <a href="https://joshika.vercel.app" target="_blank" rel="noopener">
-          joshikaganne.me
+          joshikaganne.vercel.app
         </a>
         ;
       </p>
