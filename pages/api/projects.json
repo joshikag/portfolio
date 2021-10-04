@@ -1,0 +1,34 @@
+[
+  {
+    "id": 1,
+    "name": "Hackathon Portal",
+    "image": "https://www.joc.com/sites/default/files/field_feature_image/Hackathon%20concept_0.jpg",
+    "description": "Hackathon Portal inspired by Devfolio to register and participate in Hackathons",
+    "tags": ["html", "css", "javascript", "material-ui","node-js"],
+    "source_code": "https://github.com/singhalyash8080/HACK-PORTAL-Frontend"
+  },
+  {
+    "id": 2,
+    "name": "MediDoc",
+    "image": "https://thumbs.dreamstime.com/b/health-medical-record-information-system-hospital-database-data-54942974.jpg",
+    "description": "Universal medical database aimed to aid health centres",
+    "tags": ["html", "css", "javascript", "scss", "php","sql"],
+    "source_code": "https://github.com/joshikag/medi-doc"
+  },
+  {
+    "id": 3,
+    "name": "Twitch Clone",
+    "image": "https://saferschoolstogether.com/wp-content/uploads/2020/09/01-twitch-logo-1030x687.jpg",
+    "description": "A frontend clone of the streaming platform twitch",
+    "tags": ["react", "javascript", "html", "css"],
+    "source_code": "https://github.com/joshikag/twitch-clone"
+  },
+  {
+    "id": 4,
+    "name": "Genrely",
+    "image": "https://cdn.pixabay.com/photo/2016/05/24/22/54/icon-1413583_1280.png",
+    "description": "Music Genre Classification & Recommendation using various algorithms",
+    "tags": ["python","jupyter-notebook","ml-algorithms"],
+    "source_code": "https://github.com/joshikag/Music-Genre-Classification-using-various-algorithms"
+  }
+]
