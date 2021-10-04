@@ -6,10 +6,13 @@ const AboutPage = () => {
       <h1>About Page</h1>
       <div className={styles.code}>
       <p className={styles.comment} >
-      /* A self-motivated and active tech enthusiast that enjoys experimenting with new technologies, creating new 
+      /* A self-motivated and active tech enthusiast that enjoys experimenting with 
         </p>
         <p className={styles.comment} >
-         things, and applying her technological skills to address real-world problems. */
+        new technologies, creating new things, and applying her technological skills 
+        </p>
+        <p className={styles.comment} >
+        to address real-world problems. */
         </p>
       <p className={styles.line}>
         <span className={styles.className}>.about</span> &#123;
