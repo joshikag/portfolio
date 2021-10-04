@@ -3,7 +3,7 @@ import styles from '../styles/ContactCode.module.css';
 const AboutPage = () => {
   return (
     <>
-      <h1>About Page</h1>
+      <h1>About Joshika</h1>
       <div className={styles.code}>
       <p className={styles.comment} >
       /* A self-motivated and active tech enthusiast that enjoys experimenting with 
