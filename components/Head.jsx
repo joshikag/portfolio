@@ -18,8 +18,8 @@ const CustomHead = ({ title }) => {
         content="A web developer building websites that you'd like to use."
       />
       
-      <meta property="og:url" content="https://joshika-ganne.vercel.app/" />
-      <meta name="twitter:card" content="summary_large_image" />
+      
+   
     </Head>
   );
 };
